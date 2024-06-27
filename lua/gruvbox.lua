@@ -474,6 +474,7 @@ local function get_groups()
     CocWarningHighlight = { link = "GruvboxOrangeUnderline" },
     CocInfoHighlight = { link = "GruvboxBlueUnderline" },
     CocHintHighlight = { link = "GruvboxAquaUnderline" },
+    CocPumSearch = { link = "GruvboxGray" },
     TelescopeNormal = { link = "GruvboxFg1" },
     TelescopeSelection = { link = "GruvboxGray" },
     TelescopeSelectionCaret = { link = "GruvboxRed" },
